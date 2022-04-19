@@ -1,0 +1,7 @@
+[packages]
+
+[dev-packages]
+black = "*"
+mypy = "*"
+flake8 = "*"
+pytest = "*"
