@@ -1,7 +1,9 @@
 name: CI
 
 on:
-  push: {}
+  push:
+    branches:
+      - 1-feat-bazel_ci
 
 jobs:
   build:
